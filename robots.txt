@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://diabetes-solution-kit.vercel.app/sitemap.xml
+Sitemap: https://tupitea.vercel.app/sitemap.xml

@@ -1,1 +1,1 @@
-# https://diabetes-solution-kit.vercel.app
+# https://tupitea.vercel.app
